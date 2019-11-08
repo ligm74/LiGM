@@ -12,10 +12,18 @@ If the system is set to Russian locale by default, it works automatically switch
 
 ## Editor appearance:
 
-Fig. 1 - example of a document with a table and picture
-Fig. 2 - example of correcting errors in the text
-Fig. 3 - example source code (Python)
-Fig. 4 - example source code (SQL)
+Example of a document with a table and picture:
+![alt text](screenshots/fig1.png "Fig. 1 - example of a document with a table and picture")
+
+Example of correcting errors in the text
+![alt text](screenshots/fig2.png "Fig. 2 - example of correcting errors in the text")
+
+Example source code (Python)
+![alt text](screenshots/fig3.png "Fig. 3 - example source code (Python)")
+
+Example source code (SQL)
+![alt text](screenshots/fig4.png "Fig. 4 - example source code (SQL)")
+
 
 ## Dependencies.
 It required Python 3.7+, PyQt5.
