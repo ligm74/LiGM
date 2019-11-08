@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: ligm.core
+Version: 1.0.0
+Summary: General classes, methods, etc.
+Home-page: UNKNOWN
+Author: Vladimir Rukavishnikov
+Author-email: ligm74@inbox.ru
+License: MIT
+Description: General classes, methods, etc.
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7

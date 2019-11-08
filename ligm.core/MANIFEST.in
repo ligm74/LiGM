@@ -1,0 +1,4 @@
+include LICENSE
+recursive-include ./ligm/core *.py *.qm *.ts
+recursive-include ./ligm/resources *.*
+recursive-exclude ./ligm/resources/dict *.*

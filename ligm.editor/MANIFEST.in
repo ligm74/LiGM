@@ -1,0 +1,4 @@
+include LICENSE
+recursive-include ./ligm/demos/editor *.py *.qm *.ts *.json *.html
+recursive-exclude ./ligm/demos/editor/tst/ *.*
+recursive-exclude ./ligm/demos/editor/ config.json
